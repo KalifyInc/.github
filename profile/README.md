@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://kalify.vercel.app/assets/pic07.dbfc3897.jpg"/>
+   <img src="https://kalify.vercel.app/assets/pic07-dbfc3897.jpg"/>
 </p>
 
 # Quem somos?
