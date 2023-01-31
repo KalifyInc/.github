@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://kalify.vercel.app/assets/pic07-dbfc3897.jpg"/>
+   <img src="https://pbs.twimg.com/profile_banners/1421114389906837514/1675172635/1500x500"/>
 </p>
 
 # Quem somos?
